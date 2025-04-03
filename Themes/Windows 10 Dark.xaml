@@ -14,11 +14,11 @@
     <SolidColorBrush x:Key="ButtonLight" Color="#000000" />
     <SolidColorBrush x:Key="ButtonFace" Color="#000000" />
 
-    <SolidColorBrush x:Key="ButtonInactiveBorder" Color="#8A9DB6" />
-    <SolidColorBrush x:Key="ButtonActiveBorder" Color="#8A9DB6" />
-    <SolidColorBrush x:Key="ButtonActiveBackground" Color="#333333" />
-    <SolidColorBrush x:Key="ButtonHoverBorder" Color="#222222" />
-    <SolidColorBrush x:Key="ButtonHoverBackground" Color="#222222" />
+    <SolidColorBrush x:Key="ButtonInactiveBorder" Color="#000000" />
+    <SolidColorBrush x:Key="ButtonActiveBorder" Color="#0078D4" />
+    <SolidColorBrush x:Key="ButtonActiveBackground" Color="#4C4C4C" />
+    <SolidColorBrush x:Key="ButtonHoverBorder" Color="#333333" />
+    <SolidColorBrush x:Key="ButtonHoverBackground" Color="#333333" />
     <SolidColorBrush x:Key="ButtonPressedBorder" Color="#181818" />
     <SolidColorBrush x:Key="ButtonPressedBackground" Color="#181818" />
     <SolidColorBrush x:Key="ButtonFlashingBorder" Color="#FF7200" />
